@@ -1,0 +1,18 @@
+
+.container {
+border: 5px solid black;
+width:960px;
+height: 500px;
+display: grid;
+
+}
+
+.container div{
+border:1px solid blue;
+
+}
+
+.change {
+    background-color: brown;
+}
+
